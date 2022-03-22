@@ -4,7 +4,7 @@ This specification uses **DiscordGen** to generate JSON and Go structs from [dis
 
 ## Can you add other versions?
 
-Other active API versions will be added soon: Generation of the other API versions is already supported, but I need time to decide whether it's necessary.
+Generation of the other API versions is already supported, but I need time to decide whether it's necessary.
 
 ## Issues
 
