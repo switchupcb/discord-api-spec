@@ -1,6 +1,6 @@
 # Contribution
 
-This specification uses **DiscordGen** to generate JSON and Go structs from [discord-api-types](https://github.com/discordjs/discord-api-types); which provides up-to-date Typescript Types for the Discord API. **DiscordGen** will remain proprietary at this time, but may be open sourced later. If you would like to use **DiscordGen** or convert other TypeScript Type Libraries to JSON/Go, please contact `software@switchupcb.com`.
+This specification uses **DiscordGen** to generate JSON and Go structs from [discord-api-types](https://github.com/discordjs/discord-api-types); which provides up-to-date Typescript Types for the Discord API. **DiscordGen** will remain proprietary at this time, but may be open sourced later. If you would like to use **DiscordGen** or convert other TypeScript Type Libraries to JSON/Go, please contact [software@switchupcb.com](mailto:software@switchupcb.com?subject=DiscordGen%20Inquiry).
 
 ## Issues
 
