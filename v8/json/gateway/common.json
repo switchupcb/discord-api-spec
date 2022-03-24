@@ -1,0 +1,1 @@
+{"definitions":{"GatewayURLQuery":{"type":"object","properties":{"v":{"type":"string"},"encoding":{"type":"string","enum":["json","etf"]},"compress":{"type":"string","const":"zlib-stream"}},"required":["v","encoding"],"additionalProperties":false,"description":"https://discord.com/developers/docs/topics/gateway#connecting-gateway-url-params"}}}
