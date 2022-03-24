@@ -17,8 +17,8 @@ A machine readable specification will allow you to generate language types _(i.e
 
 ## What is the alternative?
 
-The current alternative Discord provides is use an outdated contributor-led documentation. Discord API documentation does not provide JSON responses, and there is no guarantee that it's `Object` tables are up-to-date.
+The current alternative Discord provides is to use an outdated contributor-led documentation. Discord API documentation does not provide JSON responses, and there is no guarantee that its `Object` tables are up-to-date.
 
 ## License
 
-The [Mozilla Public License 2.0](LICENSE) requires preservation of copyright and license notices (where the source is distributed). Modifications to this project must remain open sourced, but larger works that contain it may remain proprietary.
+The [Mozilla Public License 2.0](LICENSE) requires preservation of copyright and license notices _(where the source is distributed)_. Publicly distributed-works that [modify](https://www.mozilla.org/en-US/MPL/2.0/FAQ/#distribute-modified-source) this project must open source the modified project _(but the larger work that contains it may remain proprietary)_. For more information, read the [MPL 2.0 FAQ](https://www.mozilla.org/en-US/MPL/2.0/FAQ/#license-use).
