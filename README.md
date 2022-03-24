@@ -4,7 +4,7 @@ Discord does **NOT** provide an API Specification. This repository aims to provi
 | File          | Description                                                                                      |
 | :------------ | :----------------------------------------------------------------------------------------------- |
 | `json`        | Contains valid JSON.                                                                             |
-| `go`          | Contains converted Go structs _(inline/outline)_ from validated JSON.                            |
+| `go`          | Contains converted Go structs _(inline/outline/mod)_ from validated JSON.                        |
 | `unconverted` | Unconverted TypeScript from [discord-api-types](https://github.com/discordjs/discord-api-types). |
 
 ## How is it Created?
