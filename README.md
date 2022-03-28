@@ -1,15 +1,13 @@
 # Discord API Spec
-Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification. A [generator](CONTRIBUTING.md) is used to generate the specification (which is split into folders).
+Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification.
 
-| File          | Description                                                                                      |
-| :------------ | :----------------------------------------------------------------------------------------------- |
-| `json`        | Contains valid JSON.                                                                             |
-| `go`          | Contains converted Go structs _(inline/outline/mod)_ from validated JSON.                        |
-| `unconverted` | Unconverted TypeScript from [discord-api-types](https://github.com/discordjs/discord-api-types). |
+| File   | Description          |
+| :----- | :------------------- |
+| `json` | Contains valid JSON. |
 
 ## How is it Created?
 
-Read [Contributing](CONTRIBUTING.md) for more information.
+Read [Contributing](CONTRIBUTING.md) for more information or to contribute to the specification.
 
 ## What can I do with this?
 
