@@ -1,7 +1,7 @@
-[submodule "go/v9"]
-	path = go/v9
+[submodule "go"]
+	path = go
 	url = https://github.com/switchupcb/dasgo
-	branch = v9
+	branch = main
 [submodule "typescript"]
 	path = typescript
 	url = https://github.com/discordjs/discord-api-types

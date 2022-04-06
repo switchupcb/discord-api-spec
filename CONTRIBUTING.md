@@ -74,7 +74,6 @@ Remove the submodule from `.git`. This disables the ability to checkout past com
 
 ```
 rm -rf .git/modules/<path-to-submodule>
-git rm -f <path-to-submodule>
 ```
 
 ## Issues
