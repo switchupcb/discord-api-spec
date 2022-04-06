@@ -1,9 +1,10 @@
 # Discord API Spec
 Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification.
 
-| File   | Description          |
-| :----- | :------------------- |
-| `json` | Contains valid JSON. |
+| File    | Description                                                |
+| :------ | :--------------------------------------------------------- |
+| `json`  | Contains valid JSON.                                       |
+| `dasgo` | [Go Type Definitions](https://github.com/switchupcb/dasgo) |
 
 ## How is it Created?
 
@@ -15,7 +16,7 @@ A machine readable specification will allow you to generate language types _(i.e
 
 ## What is the alternative?
 
-The current alternative Discord provides is to use an outdated contributor-led documentation. Discord API documentation does not provide JSON responses, and there is no guarantee that its `Object` tables are up-to-date.
+The current alternative Discord provides is to use an outdated contributor-led documentation. Discord API documentation does not provide JSON responses, and there is no guarantee that its `Object` tables are up-to-date nor standardized.
 
 ## License
 
