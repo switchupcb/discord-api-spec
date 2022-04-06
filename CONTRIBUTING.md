@@ -50,6 +50,33 @@ _Note that the Discord API Documentation Classifier refers to the User Object; w
 
 Discord uses JSON to communicate with its clients: [JavaScript Object Notation (JSON)](https://www.json.org/json-en.html) is a data-interchange format. This is the format a bot receives messages in when a request or event occurs.
 
+## Submodules
+
+Use submodules to reference language-specific object definitions.
+
+### Add a Submodule
+
+Add a specific branch of a repository to this repository.
+
+```
+git submodule add -b <branch name> <git repository URL> <path/to/submodule>
+```
+
+### Remove a Submodule
+
+Remove the submodule the project.
+
+```
+git rm <path/to/submodule>
+```
+
+Remove the submodule from `.git`. This disables the ability to checkout past commits without requiring fetching from another repository _(which is fine for the use case of Discord API Spec)_.
+
+```
+rm -rf .git/modules/<path-to-submodule>
+git rm -f <path-to-submodule>
+```
+
 ## Issues
 
 Use issues to identify incomplete features after version 1.

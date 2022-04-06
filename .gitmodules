@@ -1,0 +1,4 @@
+[submodule "go/v9"]
+	path = go/v9
+	url = https://github.com/switchupcb/dasgo
+	branch = v9
