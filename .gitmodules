@@ -2,3 +2,7 @@
 	path = go/v9
 	url = https://github.com/switchupcb/dasgo
 	branch = v9
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/discordjs/discord-api-types
+	branch = main
