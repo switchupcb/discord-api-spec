@@ -1,10 +1,5 @@
 # Discord API Spec
-Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification.
-
-| File    | Description                                                |
-| :------ | :--------------------------------------------------------- |
-| `json`  | Contains valid JSON.                                       |
-| `dasgo` | [Go Type Definitions](https://github.com/switchupcb/dasgo) |
+Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification. The `json` folder contains valid JSON while `submodule` folders refer to programming language object-definition libraries.
 
 ## How is it Created?
 
