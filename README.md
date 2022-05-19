@@ -1,3 +1,5 @@
+_This repository is archived. See Discussions for more information._
+
 # Discord API Spec
 Discord does **NOT** provide an API Specification. This repository aims to provide a human and machine readable [Discord API](https://discord.com/developers/docs/reference) Specification. The `json` folder contains valid JSON while `submodule` folders refer to programming language object-definition libraries.
 
